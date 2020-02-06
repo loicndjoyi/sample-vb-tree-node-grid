@@ -62,14 +62,14 @@ Partial Class frmRQ
         '
         Me.MenuToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.msOuvrir})
         Me.MenuToolStripMenuItem.Name = "MenuToolStripMenuItem"
-        Me.MenuToolStripMenuItem.Size = New System.Drawing.Size(45, 20)
+        Me.MenuToolStripMenuItem.Size = New System.Drawing.Size(50, 20)
         Me.MenuToolStripMenuItem.Text = "Menu"
         '
         'msOuvrir
         '
         Me.msOuvrir.Image = Global.RevenuQuebec.My.Resources.Resources.open_file_icon
         Me.msOuvrir.Name = "msOuvrir"
-        Me.msOuvrir.Size = New System.Drawing.Size(104, 22)
+        Me.msOuvrir.Size = New System.Drawing.Size(107, 22)
         Me.msOuvrir.Text = "Ouvrir"
         '
         'ToolStripMenuItem1
@@ -83,7 +83,7 @@ Partial Class frmRQ
         '
         Me.SupportEnLigneToolStripMenuItem.Image = Global.RevenuQuebec.My.Resources.Resources.images
         Me.SupportEnLigneToolStripMenuItem.Name = "SupportEnLigneToolStripMenuItem"
-        Me.SupportEnLigneToolStripMenuItem.Size = New System.Drawing.Size(162, 22)
+        Me.SupportEnLigneToolStripMenuItem.Size = New System.Drawing.Size(172, 22)
         Me.SupportEnLigneToolStripMenuItem.Text = "Support technique"
         '
         'ofdRevenuQuebec
@@ -228,7 +228,7 @@ Partial Class frmRQ
         Me.MinimizeBox = False
         Me.Name = "frmRQ"
         Me.ShowIcon = False
-        Me.Text = "Revenu Québec"
+        Me.Text = "Sample Tree Grid Tree View"
         Me.msRevenuQuebec.ResumeLayout(False)
         Me.msRevenuQuebec.PerformLayout()
         Me.gboRech.ResumeLayout(False)
