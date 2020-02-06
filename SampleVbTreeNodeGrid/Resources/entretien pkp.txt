@@ -1,0 +1,21 @@
+<compagnie>
+		<nom>Entretien PKP Manoir</nom>
+		<revenu>450000</revenu>
+		<personne id="000002" nom="Le chien de Pierre-Karl"/>
+		<personne id="000003" nom="Le jardinier de Pierre-Karl"/>
+		<compagnie>
+			<nom>Entretien PKP Maison</nom>
+			<revenu>45000</revenu>
+			<personne id="000004" nom="Le cuisinier de Pierre-Karl"/>
+			<compagnie>
+				<nom>Entretien PKP Bécosse</nom>
+				<revenu>4500</revenu>
+				<personne id="000005" nom="Le concierge de Pierre-Karl"/>
+				<compagnie>
+					<nom>Entretien PKP Brosse à dents</nom>
+					<revenu>450</revenu>
+					<personne id="000006" nom="Le dentiste de Pierre-Karl"/>
+				</compagnie>
+			</compagnie>
+		</compagnie>
+</compagnie>

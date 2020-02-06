@@ -1,0 +1,22 @@
+<compagnie>
+	<nom>Québécor Média</nom>
+	<revenu>450000000</revenu>
+	<personne id="000001" nom="Pierre-Karl Péladeau"/>
+	<compagnie>
+		<nom>Vidéotron</nom>
+		<revenu>45000000</revenu>
+		<personne id="000002" nom="Le chien de Pierre-Karl"/>
+		<personne id="000003" nom="Le jardinier de Pierre-Karl"/>
+		<personne id="000004" nom="Le cuisinier de Pierre-Karl"/>
+	</compagnie>
+</compagnie>
+<compagnie>
+	<nom>Bebelle Canada</nom>
+	<revenu>450000000</revenu>
+	<personne id="000008" nom="Mr Bell"/>
+</compagnie>	
+<compagnie>
+		<nom>Entretien PKP Manoir</nom>
+		<revenu>450000</revenu>
+		<personne id="000002" nom="Le chien de Pierre-Karl"/>
+</compagnie>
